@@ -1,0 +1,13 @@
+https://docs.google.com/spreadsheets/d/1U7Qwhxo5NyL8ogphPSxmIovqHdLGw_Y0/edit?usp=share_link&ouid=100923818062405300790&rtpof=true&sd=true
+
+
+
+
+
+
+augments
+
+
+		augment1                       augment2           augment3       augment4
+
+Mačke  |   DCT lowpass Unsharp masking  |	Saturation   |	Aspect + Cut  |	Occlusions

@@ -1,0 +1,7 @@
+path: C:\Users\vpavl\Desktop\mace\MACE_ADOS_PZ1_Labeling_and_Augmentation\datasets
+train: train/images
+val: validate/images
+
+
+nc: 1
+names: ['cat']

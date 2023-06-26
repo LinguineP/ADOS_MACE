@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE imgdsp>
+<imgdsp>
+    <programs>
+        <program name="Augmentation 1">
+            <params>
+                <param name="threshold" min="0" current="100" max="255"/>
+                <param name="crompress" min="0" current="50" max="100"/>
+            </params>
+        </program>
+        <program name="Augmentation 2">
+            <params>
+                <param name="threshold" min="0" current="100" max="255"/>
+                <param name="crompress" min="0" current="50" max="100"/>
+            </params>
+        </program>
+        <program name="Augmentation 3">
+            <params>
+                <param name="threshold" min="0" current="100" max="255"/>
+                <param name="crompress" min="0" current="50" max="100"/>
+            </params>
+        </program>
+        <program name="Augmentation 4">
+            <params>
+                <param name="threshold" min="0" current="99.96000000000001" max="255"/>
+                <param name="crompress" min="0" current="50" max="100"/>
+            </params>
+        </program>
+        <program name="Augmentation 5">
+            <params>
+                <param name="threshold" min="0" current="99.96000000000001" max="255"/>
+                <param name="crompress" min="0" current="50" max="100"/>
+            </params>
+        </program>
+    </programs>
+    <in_imgs>
+        <in_img file_name="playing_kitten.jpg"/>
+        <in_img file_name="baboon.bmp"/>
+        <in_img file_name="green_cat.jpg"/>
+        <in_img file_name="Party.jpg"/>
+        <in_img file_name="CatWithGreenEyes.png"/>
+    </in_imgs>
+    <out_imgs>
+        <out_img file_name="processed_img.jpg"/>
+    </out_imgs>
+</imgdsp>
