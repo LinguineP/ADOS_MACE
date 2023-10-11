@@ -2,8 +2,7 @@
 # encoding: utf-8
 
 '''
-@author: Milos Subotic <milos.subotic.sm@gmail.com>
-@license: MIT
+
 
 @brief: Waf script just for distclean and dist commands.
 '''
